@@ -1,2 +1,2 @@
-# My Very First Web Page (not realy).
+# My Very First Web Page (not really).
 Wolcome!
